@@ -20,6 +20,11 @@ We may collect the following information to provide and improve our loyalty serv
 - Transaction history  
 - Rewards and redemption records
 
+We request camera access to:
+- Scan QR codes for quick check-ins at stores
+- Capture receipts for points verification
+- We do not store or share photos taken through the app
+
 ---
 
 ## 2. How We Use Your Information
