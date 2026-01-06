@@ -20,10 +20,6 @@ We may collect the following information to provide and improve our loyalty serv
 - Transaction history  
 - Rewards and redemption records
 
-### Device & Usage Information
-- Device type  
-- App usage data (for performance and improvement)
-
 ---
 
 ## 2. How We Use Your Information
@@ -68,20 +64,13 @@ You have the right to:
 
 ---
 
-## 7. Children’s Privacy
-
-The Phone King app is not intended for children under the age of 13. We do not knowingly collect personal data from children.
-
----
-
-## 8. Changes to This Policy
+## 7. Changes to This Policy
 
 We may update this Privacy Policy from time to time. Updates will be posted on this page with a revised effective date.
 
 ---
 
-## 9. Contact Us
+## 8. Contact Us
 
 **Phone King**  
-Email: support@phoneking.com  
-Phone: +95-XXXXXXXXX
+Phone: +95-9255553435
